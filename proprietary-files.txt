@@ -524,6 +524,9 @@ vendor/etc/init/init.time_daemon.rc
 -vendor/lib/libtime_genoff.so
 -vendor/lib64/libtime_genoff.so
 
+# Wi-Fi
+vendor/bin/wcnss_service
+
 # Wi-Fi - Firmware
 vendor/etc/wifi/WCNSS_qcom_wlan_nv.bin
 vendor/etc/wifi/WCNSS_qcom_wlan_nv_Argentina.bin
